@@ -1,0 +1,117 @@
+{
+    "radios": [
+        {
+               "id": 1,
+               "name": "92.7",
+               "tagline": "Suno Sunao, Life Banao!",
+               "color": "0xffa11431",
+               "desc": "The chills you get when you listen to music, is mostly caused by the brain releasing dopamine while anticipating the peak moment of a song.",
+               "url": "http://sc-bb.1.fm:8017/;",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/m8afyszryaqt.png",
+               "image": "https://cdn.wallpapersafari.com/34/92/Mf9ziI.jpg",
+               "lang": "Hindi",
+               "category": "pop",
+               "disliked": false,
+               "order": 1
+           },
+           {
+               "id": 2,
+               "name": "98.3",
+               "tagline": "Mirchi Sunnewaale Always Khush!",
+               "color": "0xff221420",
+               "desc": "There are few activities in life that utilizes the entire brain, and music is one of them.",
+               "url": "https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8",
+               "icon": "https://static.mytuner.mobi/media/tvos_radios/2z69hnevkvam.jpeg",
+               "image": "https://www.roadiemusic.com/blog/wp-content/uploads/2020/02/Is-Rock-Music-Dead.png",
+               "lang": "Hindi",
+               "disliked": false,
+               "category": "rock",
+               "order": 2
+           },
+           {
+               "id": 3,
+               "name": "102",
+               "tagline": "Play On!",
+               "color": "0xff04080b",
+               "desc": "Playing music regularly will physically alter your brain structure.",
+               "url": "http://node-14.zeno.fm/cm1fkgbv1ceuv?rj-ttl=5&rj-token=AAABa7Pm__WhrF8jIJ36of_AC5C-TeMcqPiHC5BJB1j1JxkowiWAyQ",
+               "icon": "http://db.radioline.fr/pictures/radio_1b34ac132310c975f847aed2a948a318/logo200.jpg?size=200",
+               "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5eecfb94-214b-4fd4-bc03-3124056b6386/d2zf294-3dbff276-1cd2-4d48-9a18-cd1db7eaa5ba.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVlZWNmYjk0LTIxNGItNGZkNC1iYzAzLTMxMjQwNTZiNjM4NlwvZDJ6ZjI5NC0zZGJmZjI3Ni0xY2QyLTRkNDgtOWExOC1jZDFkYjdlYWE1YmEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.E7d54JvO0-m-BgdaitX7h8_BJg7AuaTXxXHt0WXHh44",
+               "lang": "English",
+               "disliked": false,
+               "category": "hip-hop",
+               "order": 3
+           },
+           {
+               "id": 4,
+               "name": "104",
+               "tagline": "English Hits",
+               "color": "0xff066c53",
+               "desc": "",
+               "url": "http://108.61.34.50:7094/stream",
+               "icon": "https://radiosindia.com/images/foxfm.jpg",
+               "image": "https://wallpapercave.com/wp/tnouqxr.jpg",
+               "lang": "English",
+               "category": "hip-hop",
+               "disliked": false,
+               "order": 4
+           },
+           {
+               "id": 5,
+               "name": "95",
+               "tagline": "Asian Music",
+               "color": "0xff0d487d",
+               "desc": "",
+               "url": "http://icy-e-01-cr.sharp-stream.com/1458.mp3",
+               "icon": "https://static.radio.net/images/broadcasts/5d/9c/37907/1/c175.png",
+               "image": "https://cdn.wallpapersafari.com/65/80/UwrpRN.jpg",
+               "lang": "English",
+               "category": "jazz",
+               "disliked": false,
+               "order": 5
+           },
+           {
+               "id": 6,
+               "name": "94",
+               "tagline": "Today's Hits",
+               "color": "0xff27383e",
+               "desc": "",
+               "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/977_HITS.mp3",
+               "icon": "https://static.radio.net/images/broadcasts/8d/76/3600/1/c175.png",
+               "image": "https://images3.alphacoders.com/584/thumb-1920-58479.jpg",
+               "lang": "English",
+               "category": "rock",
+               "disliked": false,
+               "order": 6
+           },
+           {
+               "id": 7,
+               "name": "93",
+               "tagline": "Love Songs",
+               "color": "0xffa06a37",
+               "desc": "The brain responds to music the same way it responds to something that you eat.",
+               "url": "https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/index_1_a-p.m3u8?sd=10&rebase=on",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4evkagl48buu.jpeg",
+               "image": "https://www.wallpapertip.com/wmimgs/59-595497_modern-pop-music.jpg",
+               "lang": "Hindi",
+               "category": "pop",
+               "disliked": false,
+               "order": 7
+           },
+           {
+               "id": 8,
+               "name": "107",
+               "tagline": "Retro Hits",
+               "color": "0xff090909",
+               "desc": "Your heartbeat changes to mimics the music you listen to.",
+               "url": "https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/index_1_a-p.m3u8?sd=10&rebase=on",
+               "icon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/uvclzz6a6d7x.jpeg",
+               "image": "https://wallpaperaccess.com/full/1163039.jpg",
+               "lang": "Hindi",
+               "category": "classic",
+               "disliked": false,
+               "order": 8
+           }
+   ]
+   
+}
